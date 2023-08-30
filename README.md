@@ -10,4 +10,6 @@
 
 5. [0x04. UTF-8 Validation](./0x04-utf8_validation/)
 
+6. [0x05. N Queens](./0x05-nqueens)
+
 
